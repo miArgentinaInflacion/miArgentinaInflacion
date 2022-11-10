@@ -29,7 +29,7 @@ h1{
 
 }
 
-@media (max-width:800px) {
+@media screen and (max-width: 480px) {
 #h1_mobile {
     display: flex;
     flex-direction: column;
@@ -59,7 +59,7 @@ h1{
     height: 810px;
   }
 
-@media (max-width:800px) {
+@media screen and (max-width: 480px) {
 #chart {
     width: 320px;
     height: 410px;
