@@ -46,6 +46,12 @@ h1{
     height: 810px;
   }
 
+	@media (max-width:800px) {
+		#chart {
+    width: 410px;
+    height: 410px;
+		}
+	}
 
 
 
